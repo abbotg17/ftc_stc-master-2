@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/pushbot.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/squarebot.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/device_filter.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/k9legacybot.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/pushbot.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/pushbotsens.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/squarebot.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/k9legacybot.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/k9usbbot.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/device_filter.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/res/merged/release/xml/k9usbbot.xml",
+        "source": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/res/merged/release/xml/pushbotsens.xml",
+        "source": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/res/xml/pushbotsens.xml"
+    }
+]

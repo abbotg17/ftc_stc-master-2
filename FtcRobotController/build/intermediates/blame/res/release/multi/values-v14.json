@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/gta/Robotics/ftc_stc/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1869,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2015
+                    }
+                }
+            }
+        ]
+    }
+]

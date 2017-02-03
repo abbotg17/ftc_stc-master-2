@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/gta/Robotics/ftc_stc/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/gta/Robotics/ftc_stc/FtcRobotController/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 58,
+                        "endOffset": 1903
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/usstudent/Downloads/ftc_stc-master 2/FtcRobotController/src/main/res/values-sw720dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1849,
+                        "endColumn": 58,
+                        "endOffset": 1903
+                    }
+                }
+            }
+        ]
+    }
+]
