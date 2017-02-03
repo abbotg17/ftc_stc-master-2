@@ -71,7 +71,7 @@ public class Auto_Mechanum extends LinearOpMode {
         // launch second ball
         launch(-.25,3.2,50);
 
-        // drive 
+        // drive
         encoderDrive(.5, 35, 35, 35, 35);
         strafeLeft(1, 80);
         strafeLeft(1, 10);
@@ -150,12 +150,13 @@ public class Auto_Mechanum extends LinearOpMode {
             */
         sleep(500);
         // move away from wall
-        strafeRight(1, 35);
-        // move back and park on ramp
-        encoderDrive(1,-73,-73,-73,-73);
-        encoderDrive(1,-8,8,-8,8);
+        strafeRight(1, 65);
         encoderDrive(.75,-32,-32,-32,-32);
-        robot.gripServo.setPosition(2);
+        // move back and park on ramp
+       // encoderDrive(1,-73,-73,-73,-73);
+       // encoderDrive(1,-8,8,-8,8);
+       // encoderDrive(.75,-32,-32,-32,-32);
+        //robot.gripServo.setPosition(2);
 }
 
 

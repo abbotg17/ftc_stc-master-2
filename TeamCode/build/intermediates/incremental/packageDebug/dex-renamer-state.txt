@@ -1,4 +1,4 @@
-#Thu Feb 02 20:51:50 EST 2017
+#Fri Feb 03 12:08:20 EST 2017
 base.0=/Users/usstudent/Downloads/ftc_stc-master 2/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/usstudent/Downloads/ftc_stc-master 2/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

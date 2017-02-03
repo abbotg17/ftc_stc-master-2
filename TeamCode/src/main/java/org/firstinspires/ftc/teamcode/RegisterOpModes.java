@@ -70,7 +70,8 @@ public class RegisterOpModes {
         manager.register("Gunther Test", Driver_Mechanum_GuntherExperiment.class);
         manager.register("Mechanum tank mode yo", Driver_Mechanum_TankMode.class);
         manager.register("color sensor", SensorMRColor.class);
-        manager.register("Auto", Auto_Mechanum.class);
+        manager.register("Red auto", Auto_Mechanum.class);
+        manager.register("Blue auto", Auto_Mechanum_2.class);
         manager.register("Analog Drive",Driver_Mechanum_AnalogExperiment.class);
         manager.register("Set background color", org.firstinspires.ftc.teamcode.Old.SensorMRColor.class);
         manager.register("Test ODS", ODS_Test.class);

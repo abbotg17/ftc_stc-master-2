@@ -123,9 +123,6 @@ public class Driver_Mechanum_TankMode extends LinearOpMode {
                 right = (gamepad1.right_stick_y / 2)*mult;
                 left = (gamepad1.left_stick_y / 2)*mult;
 
-                right = (gamepad1.right_stick_x / 2)*mult;
-                left = (gamepad1.left_stick_x / 2)*mult;
-
                 robot.backLeft.setPower(left);
                 robot.frontLeft.setPower(left);
 
